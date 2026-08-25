@@ -1,6 +1,6 @@
 # Salut, moi c'est Florian 👋
 
-🎓 **En reconversion vers le développement informatique** après un parcours dans l'ingénierie du son, je suis actuellement à la recherche d'une **alternance pour préparer un BTS ** dans la région de **Lille**.
+🎓 **En reconversion vers le développement informatique** après un parcours dans l'ingénierie du son, je suis actuellement à la recherche d'une **alternance pour préparer un BTS** dans la région de **Lille**.
 
 Passionné par la technique et la création, la rigueur et la logique acquises dans l'audio me porteront vers le monde du code.
 
