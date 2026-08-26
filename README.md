@@ -45,5 +45,5 @@ Passionné par la technique et la création, la rigueur et la logique acquises d
 
 ### 📬 Me contacter
 
-- 💼 **LinkedIn :** [Florian Goudenhooft]([https://www.linkedin.com](https://www.linkedin.com/in/ableton/))
+- 💼 **LinkedIn :** [Florian Goudenhooft](https://www.linkedin.com/in/ableton/)
 - ✉️ **Email :** [flogoudenhooft@gmail.com](mailto:flogoudenhooft@gmail.com)
